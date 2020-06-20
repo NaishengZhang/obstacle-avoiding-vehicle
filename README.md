@@ -1,6 +1,6 @@
 # [Obstacle Avoiding Vehicle](https://github.com/NaishengZhang/obstacle_avoiding_vehicle)
 
-[Video](https://youtu.be/46QFpG3M0sA)
+[Video](https://youtu.be/0Q-u-JB2VA0)
 
 - Navigate through an obstacle course successfully. The obstacles will be walls higher than the vehicle height.
 
