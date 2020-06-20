@@ -1,4 +1,4 @@
-#[Obstacle Avoiding Vehicle](https://github.com/NaishengZhang/obstacle_avoiding_vehicle)
+# [Obstacle Avoiding Vehicle](https://github.com/NaishengZhang/obstacle_avoiding_vehicle)
 
 [Video](https://youtu.be/46QFpG3M0sA)
 
